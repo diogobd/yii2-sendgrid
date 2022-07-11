@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist wadeshuler/yii2-sendgrid
+php composer.phar require --prefer-dist diogobd/yii2-sendgrid
 ```
 
 or add
 
 ```json
-"wadeshuler/yii2-sendgrid": "~1.0"
+"diogobd/yii2-sendgrid": "*"
 ```
 
 to the require section of your application's `composer.json` file.
