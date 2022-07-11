@@ -1,5 +1,5 @@
 <?php
-namespace wadeshuler\sendgrid;
+namespace diogobd\sendgrid;
 
 use Yii;
 use yii\base\InvalidConfigException;
